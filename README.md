@@ -1,7 +1,7 @@
 AqueductDeveloperManifesto
 ==========================
 
-This repository describes our most important values.
+
 
 
 We are primarily driven by meeting clients goals and objectives.
