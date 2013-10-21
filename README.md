@@ -16,3 +16,4 @@ We value our automated test suites, but we still manual test.
 
 We succeed and fail together.
 
+We aim to build working wireframe prototypes as early as possible - sometimes even before the client sees the initial designs.
